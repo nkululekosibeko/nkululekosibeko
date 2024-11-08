@@ -74,7 +74,7 @@
 ### Project 2: SAPS Case Management System
 - **Description:** A digital platform for South African Police Services to manage and monitor crime reports, including officer assignment and progress tracking.
 - **Technologies Used:** ASP.NET Core MVC, SQL Server, Azure
-- **Link:** [GitHub Repository](https://github.com/Wiseman325/Case-Management-System.git)
+- **Link:** [Live Project](https://casemanagementsystem2024.azurewebsites.net/)
 
 ### Project 3: Durban First - Driving School Test Booking System
 - **Description:** Allows clients to book driving school tests, select slots, and manage appointments for efficient scheduling.
