@@ -84,13 +84,19 @@
 ---
 
 ## 🏆 Certifications
-- **Microsoft Certified: Azure Fundamentals**
-- **Advanced Web Development with ASP.NET MVC**
-- **Mobile Application Development with Android Studio**
+- **Cybersecurity Essentials - Cisco Networking Academy, July 2020**
+-   **Link:** [Preview Certificate](https://dut4lifeac-my.sharepoint.com/:b:/g/personal/22063580_dut4life_ac_za/EfhxhoymIH9JlpUj8zt1WiQBgqwzl26bY_bys__Iy7X8Rg?e=qcdon6)
+- **Introduction to IoT - Cisco Networking Academy, March 2020**
+-    **Link:** [Preview Certificate](https://dut4lifeac-my.sharepoint.com/:b:/g/personal/22063580_dut4life_ac_za/ERE2bCboQvBIiAlSKUKolwcBeynT6qWXZSzHV2NbcWBERA?e=e3QZp3)
+- **Introduction to Cybersecurity - Cisco Networking Academy, August 2020**
+-    **Link:** [Preview Certificate](https://dut4lifeac-my.sharepoint.com/:b:/g/personal/22063580_dut4life_ac_za/EfgC3rdPowFBj5cEQOQslz4Bln9yqf7n8dIqg9HUfHg3IQ?e=YevMct)
+- **NDG Linux Unhatched - Cisco Networking Academy, October 2020**
+-    **Link:** [Preview Certificate](https://dut4lifeac-my.sharepoint.com/:b:/g/personal/22063580_dut4life_ac_za/EaXQf9FwpBdCllJ54sWtDMIB8K4lLR3OIPERdyDBVJU_kA?e=DL3VSF)
 
 ---
 
-## 🤝 Contributions & Open Source Work
+## 🤝 Collaborations.
+I have a greate experience that is also informative with working with Mr. Mlondi Chiya. His github account is [Wiseman325](https://github.com/Wiseman325), He is one of the best project partners whom i have collaborated with on multiple projects. Below find some of our best work.
 - Contributed to [Thuthuka Constructions](https://github.com/nkululekosibeko/Thuthuka.git) - a project management platform for construction.
 - Open to collaboration on impactful open-source projects and tech-related mentorship.
 
